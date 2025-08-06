@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaan </h1>
+<h1 align="center">Kaan Toktaş</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
 - 🔭 I’m currently working on my **Qreatione Project**
